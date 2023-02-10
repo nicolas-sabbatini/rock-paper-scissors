@@ -1,0 +1,9 @@
+[package]
+name = "rock-paper-scissors"
+version = "0.1.0"
+edition = "2021"
+license = "GPL-3.0-or-later"
+
+[dependencies]
+cursive = {version = "0.20", default-features = false, features = ["crossterm-backend"]}
+rand = "0.8"
