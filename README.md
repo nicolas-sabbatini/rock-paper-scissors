@@ -16,6 +16,3 @@ graph LR
   C -.-> S1>Win] & S2>Tie] & S3>Lose]
   A & B --> |Don't want to play| D{{Exit Game}}
 ```
-
-## TODO
-[] Load screen in before showing the results to give more excitement
